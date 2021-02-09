@@ -7,7 +7,7 @@ const Navbar = () => {
     <>
       <Head>
         <link rel="shortcut icon" href="memories.png" type="image/x-icon" />
-        <title>AV Memories</title>
+        <title>Memories | AV</title>
       </Head>
       <nav>
         <Link href="/">
